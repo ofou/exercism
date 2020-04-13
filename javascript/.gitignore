@@ -1,0 +1,6 @@
+# Dependency directories
+node_modules/
+.eslintrc
+babel.config.js
+package.json
+.exercism
