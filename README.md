@@ -1,2 +1,0 @@
-# exercism
-👨‍💻 Exercism solutions
