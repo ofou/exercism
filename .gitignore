@@ -1,7 +1,1 @@
 .exercism
-node_modules
-.eslintrc
-babel.config.js
-package.json
-README.md
-*.spec.js

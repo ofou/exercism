@@ -4,3 +4,5 @@ node_modules/
 babel.config.js
 package.json
 .exercism
+README.md
+*.spec.js
