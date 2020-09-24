@@ -1,7 +1,7 @@
-# Exercism solutions 👨‍💻 
+# Exercism solutions 👨‍💻
 
-> **“For the things we have to learn before we can do them, we learn by doing them.”** \
-> ― Aristotle, _The Nicomachean Ethics_
+> **“We can only see a short distance ahead, but we can see plenty there that needs to be done.”** \
+> ― Alan Turing, _Computing machinery and intelligence_
 
 Here are my [exercism](https://exercism.io/profiles/ofou) solutions! I'm using this amazing platform in order to improve mainly my JS skills and getting closer to the community. I love using this tool to improve my skills because it makes great use of the command line, plus it give you great community feedback if you use the mentor mode, it even include great tests for your code. It's taking me **long hours** so far but I'm eager to finish the full JS Track (18) with all the side exercises (86). I'm tracking my coding time using [rescuetime](https://www.rescuetime.com/rp/ofou/). If you have any comments or suggestions about my code, questions on how to start coding on exercism, please [open an issue](https://github.com/ofou/exercism/issues/new), I'll very happy to help you out, or reciving any kind of feedback from the community!
 
