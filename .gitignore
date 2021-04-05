@@ -4,5 +4,5 @@
 !*.pl
 !*.js
 */*/.exercism
-.vscode
 */*/*_test.*
+.vscode/*
