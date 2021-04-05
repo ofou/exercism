@@ -1,6 +1,14 @@
-*/*/.exercism
-*/*/*_test.*
+# vscode runtime
 .vscode/*
+
+# exercism
+*/*/.exercism
 *.md
+
+# python
+*/*/*_test.*
 __pycache__
 .pytest_cache
+
+# go
+*.mod
