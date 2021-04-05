@@ -1,1 +1,5 @@
-.exercism
+*
+!*.go
+!*.py
+!*.pl
+!*.js
