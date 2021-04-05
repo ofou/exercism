@@ -5,3 +5,4 @@
 !*.js
 */*/.exercism
 .vscode
+*/*/*_test.*
