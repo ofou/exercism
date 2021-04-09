@@ -1,5 +1,5 @@
 # vscode runtime
-.vscode/*
+.vscode
 
 # exercism
 */*/.exercism
@@ -12,3 +12,12 @@ __pycache__
 
 # go
 *.mod
+
+# c
+c/*/test
+c/*/src/*.h
+c/*/makefile
+
+# mac
+*/.DS_Store
+.DS_Store
