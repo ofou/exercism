@@ -17,6 +17,10 @@ __pycache__
 c/*/test
 c/*/src/*.h
 c/*/makefile
+c/*/tests.out
+c/*/tests.out.dSYM/Contents/Info.plist
+c/*/tests.out.dSYM/Contents/Resources/DWARF/tests.out
+
 
 # mac
 */.DS_Store
