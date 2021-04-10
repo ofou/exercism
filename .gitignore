@@ -1,27 +1,8 @@
-# vscode runtime
-.vscode
-
-# exercism
-*/*/.exercism
-*.md
-
-# python
-*/*/*_test.*
-__pycache__
-.pytest_cache
-
-# go
-*.mod
-
-# c
-c/*/test
-c/*/src/*.h
-c/*/makefile
-c/*/tests.out
-c/*/tests.out.dSYM/Contents/Info.plist
-c/*/tests.out.dSYM/Contents/Resources/DWARF/tests.out
-
-
-# mac
-*/.DS_Store
-.DS_Store
+*
+!.vscode
+!*.cpp
+!*.c
+!*.py
+!*.js
+!*.pl
+![M|m]akefile
