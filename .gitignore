@@ -11,3 +11,5 @@ unity.c
 !*.pl
 makefile*
 !.gitignore
+*.md
+__pycache__
